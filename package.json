@@ -24,9 +24,9 @@
   "_requested": {
     "name": "angular-ui-grid",
     "raw": "angular-ui-grid@4.0.2-fixe",
-    "rawSpec": "4.0.2",
+    "rawSpec": "4.0.2-fixe",
     "scope": null,
-    "spec": "4.0.2",
+    "spec": "4.0.2-fixe",
     "type": "version"
   },
   "_requiredBy": [
@@ -107,5 +107,5 @@
     "url": "git+https://github.com/angular-ui/ui-grid.git"
   },
   "scripts": {},
-  "version": "4.0.2"
+  "version": "4.0.2-fixe"
 }
