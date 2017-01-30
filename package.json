@@ -1,12 +1,12 @@
 {
   "_args": [
     [
-      "angular-ui-grid@4.0.2",
+      "angular-ui-grid@4.0.2-fixe",
       "/home/dev/development/projects/mikos/mikos-web-ui"
     ]
   ],
-  "_from": "angular-ui-grid@4.0.2",
-  "_id": "angular-ui-grid@4.0.2",
+  "_from": "angular-ui-grid@4.0.2-fixe",
+  "_id": "angular-ui-grid@4.0.2-fixe",
   "_inCache": true,
   "_installable": true,
   "_location": "/angular-ui-grid",
@@ -23,7 +23,7 @@
   "_phantomChildren": {},
   "_requested": {
     "name": "angular-ui-grid",
-    "raw": "angular-ui-grid@4.0.2",
+    "raw": "angular-ui-grid@4.0.2-fixe",
     "rawSpec": "4.0.2",
     "scope": null,
     "spec": "4.0.2",
@@ -35,7 +35,7 @@
   "_resolved": "http://nexus.vmjeap10a04.bfi.admin.ch:8020/repository/npm-all/angular-ui-grid/-/angular-ui-grid-4.0.2.tgz",
   "_shasum": "0e4ca1d5e6cc47ae4f534ccca1e711592ebf78ee",
   "_shrinkwrap": null,
-  "_spec": "angular-ui-grid@4.0.2",
+  "_spec": "angular-ui-grid@4.0.2-fixe",
   "_where": "/home/dev/development/projects/mikos/mikos-web-ui",
   "bugs": {
     "url": "https://github.com/angular-ui/ui-grid/issues"
