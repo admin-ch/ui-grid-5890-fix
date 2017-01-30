@@ -41,7 +41,7 @@
     "url": "https://github.com/angular-ui/ui-grid/issues"
   },
   "dependencies": {
-    "angular": ">=1.4.0 1.5.x"
+    "angular": ">=1.4.0 1.6.x"
   },
   "description": "A data grid for Angular",
   "devDependencies": {},
